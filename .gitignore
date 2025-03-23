@@ -1,3 +1,10 @@
+# training data
+voice_data_mozilla/*
+mfcc_extract_csv/*
+logs/*
+.env
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
