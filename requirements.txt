@@ -1,2 +1,9 @@
-transformers  
-torch
+pyaudio 
+google-generativeai 
+google-cloud-speech
+google-cloud-aiplatform
+gtts 
+pydub 
+numpy
+simpleaudio
+-e .

@@ -1,0 +1,378 @@
+Test Accuracy: 0.6258
+Confusion Matrix:
+[[17858   408]
+ [10817   917]]
+Test Accuracy: 0.8376
+Confusion Matrix:
+[[15874  1967]
+ [ 2905  9254]]
+Test Accuracy: 0.8192
+Confusion Matrix:
+[[14993  2082]
+ [ 3342  9583]]
+Test Accuracy: 0.8496
+Confusion Matrix:
+[[15721  1996]
+ [ 2517  9766]]
+Test Accuracy: 0.8520
+Confusion Matrix:
+[[15713  2063]
+ [ 2376  9848]]
+Test Accuracy: 0.8284
+Confusion Matrix:
+[[15366  2165]
+ [ 2982  9487]]
+Test Accuracy: 0.8205
+Confusion Matrix:
+[[15031  2194]
+ [ 3192  9583]]
+Test Accuracy: 0.8206
+Confusion Matrix:
+[[15170  2141]
+ [ 3242  9447]]
+Test Accuracy: 0.8378
+Confusion Matrix:
+[[15734  1926]
+ [ 2940  9400]]
+Test Accuracy: 0.8494
+Confusion Matrix:
+[[16591  1990]
+ [ 2529  8890]]
+Test Accuracy: 0.8380
+Confusion Matrix:
+[[15805  2321]
+ [ 2540  9334]]
+Test Accuracy: 0.8261
+Confusion Matrix:
+[[15634  2411]
+ [ 2807  9148]]
+Test Accuracy: 0.9216
+Confusion Matrix:
+[[16364   815]
+ [ 1536 11285]]
+Test Accuracy: 0.8281
+Confusion Matrix:
+[[15487  2364]
+ [ 2794  9355]]
+Test Accuracy: 0.8397
+Confusion Matrix:
+[[15370  1906]
+ [ 2904  9820]]
+Test Accuracy: 0.8163
+Confusion Matrix:
+[[14523  1954]
+ [ 3558  9965]]
+Test Accuracy: 0.9248
+Confusion Matrix:
+[[16509   799]
+ [ 1458 11234]]
+Test Accuracy: 0.9344
+Confusion Matrix:
+[[15482   854]
+ [ 1115 12549]]
+Test Accuracy: 0.8199
+Confusion Matrix:
+[[14554  2132]
+ [ 3270 10044]]
+Test Accuracy: 0.8315
+Confusion Matrix:
+[[15485  2248]
+ [ 2808  9459]]
+Test Accuracy: 0.8355
+Confusion Matrix:
+[[16300  1848]
+ [ 3087  8765]]
+Test Accuracy: 0.8475
+Confusion Matrix:
+[[15603  2021]
+ [ 2554  9822]]
+Test Accuracy: 0.8336
+Confusion Matrix:
+[[15333  2204]
+ [ 2788  9675]]
+Test Accuracy: 0.8242
+Confusion Matrix:
+[[15448  2371]
+ [ 2904  9277]]
+Test Accuracy: 0.8174
+Confusion Matrix:
+[[13801  2180]
+ [ 3299 10720]]
+Test Accuracy: 0.8533
+Confusion Matrix:
+[[15898  1965]
+ [ 2435  9702]]
+Test Accuracy: 0.8472
+Confusion Matrix:
+[[14744  1956]
+ [ 2627 10673]]
+Test Accuracy: 0.8480
+Confusion Matrix:
+[[15937  1923]
+ [ 2638  9502]]
+Test Accuracy: 0.0873
+Confusion Matrix:
+[[ 2618 27382]
+ [    0     0]]
+Test Accuracy: 0.6072
+Confusion Matrix:
+[[15746  3526]
+ [ 8259  2469]]
+Test Accuracy: 0.5943
+Confusion Matrix:
+[[15681  4330]
+ [ 7840  2149]]
+Test Accuracy: 0.5723
+Confusion Matrix:
+[[14989  4233]
+ [ 8597  2181]]
+Test Accuracy: 0.6036
+Confusion Matrix:
+[[15693  4082]
+ [ 7809  2416]]
+Test Accuracy: 0.5658
+Confusion Matrix:
+[[14511  3856]
+ [ 9170  2463]]
+Test Accuracy: 0.6029
+Confusion Matrix:
+[[15702  3741]
+ [ 8171  2386]]
+Test Accuracy: 1.0000
+Confusion Matrix:
+[[30000]]
+Test Accuracy: 0.5605
+Confusion Matrix:
+[[16758     1]
+ [13184    57]]
+Test Accuracy: 0.8071
+Confusion Matrix:
+[[15493  1273]
+ [ 4513  8721]]
+Test Accuracy: 0.8143
+Confusion Matrix:
+[[16122  1153]
+ [ 4418  8307]]
+Test Accuracy: 0.8201
+Confusion Matrix:
+[[16383   956]
+ [ 4442  8219]]
+Test Accuracy: 0.8201
+Confusion Matrix:
+[[15823  1306]
+ [ 4090  8781]]
+Test Accuracy: 0.8175
+Confusion Matrix:
+[[16711  1131]
+ [ 4345  7813]]
+Test Accuracy: 0.8359
+Confusion Matrix:
+[[17403  1145]
+ [ 3779  7673]]
+Test Accuracy: 0.8199
+Confusion Matrix:
+[[16883  1182]
+ [ 4222  7713]]
+Test Accuracy: 0.8129
+Confusion Matrix:
+[[15983  1095]
+ [ 4518  8404]]
+Test Accuracy: 0.8028
+Confusion Matrix:
+[[15460  1424]
+ [ 4493  8623]]
+Test Accuracy: 0.8063
+Confusion Matrix:
+[[15853   992]
+ [ 4820  8335]]
+Test Accuracy: 0.8161
+Confusion Matrix:
+[[16190   896]
+ [ 4622  8292]]
+Test Accuracy: 0.8218
+Confusion Matrix:
+[[16830  1024]
+ [ 4321  7825]]
+Test Accuracy: 0.8069
+Confusion Matrix:
+[[16235  1209]
+ [ 4584  7972]]
+Test Accuracy: 0.8343
+Confusion Matrix:
+[[17338  1152]
+ [ 3820  7690]]
+Test Accuracy: 0.8096
+Confusion Matrix:
+[[16081  1219]
+ [ 4492  8208]]
+Test Accuracy: 0.8071
+Confusion Matrix:
+[[16837  1229]
+ [ 4557  7377]]
+Test Accuracy: 0.8221
+Confusion Matrix:
+[[16885  1141]
+ [ 4196  7778]]
+Test Accuracy: 0.8133
+Confusion Matrix:
+[[15772  1119]
+ [ 4482  8627]]
+Test Accuracy: 0.8282
+Confusion Matrix:
+[[16397  1066]
+ [ 4089  8448]]
+Test Accuracy: 0.8187
+Confusion Matrix:
+[[15945   725]
+ [ 4713  8617]]
+Test Accuracy: 0.7989
+Confusion Matrix:
+[[15775  1557]
+ [ 4475  8193]]
+Test Accuracy: 0.8147
+Confusion Matrix:
+[[16023  1148]
+ [ 4411  8418]]
+Test Accuracy: 0.8157
+Confusion Matrix:
+[[16198  1035]
+ [ 4494  8273]]
+Test Accuracy: 0.8078
+Confusion Matrix:
+[[14274  1268]
+ [ 4497  9961]]
+Test Accuracy: 0.8082
+Confusion Matrix:
+[[15948   934]
+ [ 4820  8298]]
+Test Accuracy: 0.8173
+Confusion Matrix:
+[[16259  1329]
+ [ 4152  8260]]
+Test Accuracy: 0.8017
+Confusion Matrix:
+[[15261  1125]
+ [ 4824  8790]]
+
+
+
+
+ 1. Select Query to ge records to be updated -- openembedding --> limit to 100 records
+ 2. Once embedding batch job is completed, Update query to update the corresponding row with current timestamp
+
+ 3. Cloudwatch logging --> code snippet
+ 4. python login  --> format
+ 
+
+ 5. FastAPI with Rest API  Content streming   --> make it modular and push to git repo
+ 6. FastAPI --> use BedRock LLM
+
+ 7. Git Repo --> Create 2 branches 
+    a. DEV
+    b. PROD
+
+8. Create a feature branch from DEV --> develop on that  --> push it to git repo --> 
+            Raise a PR --> someone has to approve PR  --> then only merge to DEV
+
+
+ 
+Test Accuracy: 0.5795
+Confusion Matrix:
+[[17384     0]
+ [12616     0]]
+Test Accuracy: 0.5072
+Confusion Matrix:
+[[8790 9993]
+ [4790 6427]]
+Test Accuracy: 0.5332
+Confusion Matrix:
+[[8895 8589]
+ [5416 7100]]
+Test Accuracy: 0.5149
+Confusion Matrix:
+[[ 5965 10233]
+ [ 4319  9483]]
+Test Accuracy: 0.5053
+Confusion Matrix:
+[[8527 9830]
+ [5011 6632]]
+Test Accuracy: 0.4996
+Confusion Matrix:
+[[ 8009 10040]
+ [ 4971  6980]]
+Test Accuracy: 0.4947
+Confusion Matrix:
+[[ 6889 10247]
+ [ 4912  7952]]
+Test Accuracy: 0.4711
+Confusion Matrix:
+[[ 5952 11444]
+ [ 4423  8181]]
+Test Accuracy: 0.4801
+Confusion Matrix:
+[[ 5595 11097]
+ [ 4501  8807]]
+Test Accuracy: 0.5242
+Confusion Matrix:
+[[9439 8207]
+ [6066 6288]]
+Test Accuracy: 0.5051
+Confusion Matrix:
+[[8289 9283]
+ [5563 6865]]
+Test Accuracy: 0.5328
+Confusion Matrix:
+[[7291 9146]
+ [4871 8692]]
+Test Accuracy: 0.4990
+Confusion Matrix:
+[[ 5935 10160]
+ [ 4871  9034]]
+Test Accuracy: 0.5447
+Confusion Matrix:
+[[16341     0]
+ [13659     0]]
+Test Accuracy: 0.6047
+Confusion Matrix:
+[[18141     0]
+ [11859     0]]
+Test Accuracy: 0.5949
+Confusion Matrix:
+[[17846     0]
+ [12154     0]]
+Test Accuracy: 0.5909
+Confusion Matrix:
+[[17727     0]
+ [12273     0]]
+Test Accuracy: 0.5760
+Confusion Matrix:
+[[17281     0]
+ [12719     0]]
+Test Accuracy: 0.5704
+Confusion Matrix:
+[[17112     0]
+ [12888     0]]
+Test Accuracy: 0.5370
+Confusion Matrix:
+[[16109     0]
+ [13891     0]]
+Test Accuracy: 0.5863
+Confusion Matrix:
+[[17589     0]
+ [12411     0]]
+Test Accuracy: 0.5985
+Confusion Matrix:
+[[17954     0]
+ [12046     0]]
+Test Accuracy: 0.5836
+Confusion Matrix:
+[[17507     0]
+ [12493     0]]
+Test Accuracy: 0.5737
+Confusion Matrix:
+[[17210     0]
+ [12790     0]]
+Test Accuracy: 0.6060
+Confusion Matrix:
+[[18179     0]
+ [11821     0]]
